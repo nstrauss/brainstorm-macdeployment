@@ -1,5 +1,4 @@
-# BrainStorm K20 Wisconsin Dells
-# Ditch Imaging - Modern Mac Deployment Workflows
+# BrainStorm K20 Wisconsin Dells - Modern Mac Deployment Workflows
 Slide deck and resources for BrainStorm K20 2019 presentation on Mac deployment
 
 My JNUC 2018 NoMAD Login presentation - http://bit.ly/NoLo-JNUC2018  
