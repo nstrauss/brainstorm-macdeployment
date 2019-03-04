@@ -8,9 +8,11 @@ installr - https://github.com/munki/installr
 NoMAD Login AD - https://gitlab.com/orchardandgrove-oss/NoMADLogin-AD  
 NoMAD - https://gitlab.com/Mactroll/NoMAD  
 NoMAD KB - https://nomad.menu/nomad-help/  
-Apple School Manager - https://help.apple.com/schoolmanager/  
-How to reinstall macOS from macOS Recovery - https://support.apple.com/en-us/HT204904  
+NoMAD standard preferences - https://nomad.menu/help/standard-preferences/  
+NoMAD ALL the preferences - https://nomad.menu/help/preferences-and-what-they-do/  
 Jamf NoMAD installer - https://github.com/jamf/NoMAD-Installer  
 Automatically launching NoMAD - https://nomad.menu/help/automatically-launching-nomad/  
+Apple School Manager - https://help.apple.com/schoolmanager/  
+How to reinstall macOS from macOS Recovery - https://support.apple.com/en-us/HT204904  
 ProfileCreator - https://github.com/erikberglund/ProfileCreator  
 Join MacAdmins on Slack! - https://macadmins.herokuapp.com/  
