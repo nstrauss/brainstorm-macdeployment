@@ -8,10 +8,9 @@ installr - https://github.com/munki/installr
 NoMAD Login AD - https://gitlab.com/orchardandgrove-oss/NoMADLogin-AD  
 NoMAD - https://gitlab.com/Mactroll/NoMAD  
 NoMAD KB - https://nomad.menu/nomad-help/  
-DEPNotify - https://gitlab.com/Mactroll/DEPNotify  
-Jamf DEPNotify starter script - https://github.com/jamf/DEPNotify-Starter  
 Apple School Manager - https://help.apple.com/schoolmanager/  
-Neil Martin lab DEP example - https://github.com/neilmartin83/Jamf-Nation-Roadshow-London-2018  
 How to reinstall macOS from macOS Recovery - https://support.apple.com/en-us/HT204904  
+Jamf NoMAD installer - https://github.com/jamf/NoMAD-Installer  
+Automatically launching NoMAD - https://nomad.menu/help/automatically-launching-nomad/  
 ProfileCreator - https://github.com/erikberglund/ProfileCreator  
 Join MacAdmins on Slack! - https://macadmins.herokuapp.com/  
